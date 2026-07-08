@@ -1,0 +1,4 @@
+_*.json
+node_modules/
+.playwright-mcp/
+*.png
