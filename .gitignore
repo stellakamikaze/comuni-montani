@@ -7,3 +7,6 @@ encrypted/
 node_modules/
 .playwright-mcp/
 *.png
+
+index.html
+.staticrypt.json
