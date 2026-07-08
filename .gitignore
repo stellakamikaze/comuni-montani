@@ -1,4 +1,9 @@
+# Sorgenti con dati in chiaro: NON pubblicare (vanificherebbe la password)
+dati.json
 _*.json
+template.html
+build.js
+encrypted/
 node_modules/
 .playwright-mcp/
 *.png
